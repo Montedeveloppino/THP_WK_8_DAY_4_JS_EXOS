@@ -48,3 +48,4 @@ console.log(entrepreneurs.sort((a, b) => a.last.localeCompare(b.last)))
 
 console.log("**************************************************************************************");
 console.log("****Rien de plus chiant comme exercice mais bon..j'imagine que c'est pour la forme****");
+console.log("**************************************************************************************");
